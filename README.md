@@ -6,6 +6,8 @@
 
 #### :large_orange_diamond: [Shell Execute from GET Method](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/3.py)
 
+#### :large_orange_diamond: [Variable & Rendering Templates](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/4/)
+
 ---
 
 #### :large_blue_diamond: START
