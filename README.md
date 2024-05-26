@@ -30,3 +30,5 @@ export FLASK_APP=index.py
 flask run
 
 ```
+
+:star: https://youtu.be/9WfWnkVLwao
