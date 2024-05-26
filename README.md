@@ -1,14 +1,14 @@
-#### > [Hello World](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/0.py)
+#### :large_orange_diamond: [Hello World](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/0.py)
 
-#### > [Escape](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/1.py)
+#### :large_orange_diamond: [Escape](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/1.py)
 
-#### > [GET Method](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/2.py)
+#### :large_orange_diamond: [GET Method](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/2.py)
 
-#### > [Shell Execute from GET Method](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/3.py)
+#### :large_orange_diamond: [Shell Execute from GET Method](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/3.py)
 
 ---
 
-#### > START
+#### :large_blue_diamond: START
 
 ```
 python3 -V
@@ -31,4 +31,4 @@ flask run
 
 ```
 
-:star: https://youtu.be/9WfWnkVLwao
+:large_blue_diamond: https://youtu.be/9WfWnkVLwao
