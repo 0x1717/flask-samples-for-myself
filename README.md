@@ -10,7 +10,7 @@ def hello_world():
 	return "<p>Hello, World!</p>"
 ```
 
-#### > ESCAPE
+#### > Escape
 
 ```
 from markupsafe import escape
@@ -20,7 +20,7 @@ def hello(name):
     return f"Hello, {escape(name)}!"
 ```
 
-#### > GET METHOD
+#### > GET Method
 
 ```
 from flask import Flask, request
