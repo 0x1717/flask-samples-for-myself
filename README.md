@@ -1,4 +1,3 @@
-
 #### > Hello Word
 
 ```
@@ -9,4 +8,27 @@ app = Flask(__name__)
 @app.route("/")
 def hello_world():
 	return "<p>Hello, World!</p>"
+```
+
+#### > ESCAPE
+
+```
+from markupsafe import escape
+
+@app.route("/<name>")
+def hello(name):
+    return f"Hello, {escape(name)}!"
+```
+
+#### > GET METHOD
+
+```
+from flask import Flask, request
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+	name = request.args.get('name')
+	return name
 ```
