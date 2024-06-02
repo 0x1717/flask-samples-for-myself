@@ -10,6 +10,8 @@
 
 #### :large_orange_diamond: [File Upload](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/5/)
 
+#### :large_orange_diamond: [File Upload & uploads/ folder](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/6/)
+
 ---
 
 #### :large_blue_diamond: START
