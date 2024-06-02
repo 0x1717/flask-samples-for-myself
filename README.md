@@ -12,6 +12,8 @@
 
 #### :large_orange_diamond: [File Upload & uploads/ folder](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/6/)
 
+#### :large_orange_diamond: [Login Page & Session](https://github.com/0x1717/flask-samples-for-myself/blob/main/src/7/)
+
 ---
 
 #### :large_blue_diamond: START
